@@ -1,0 +1,8 @@
+{
+  "token": "yourtoken",
+  "notifierRole": "role_id",
+  "noPermission": "I'm sorry, but you dont have permission for this command.",
+  "sendingMessage": "Sending your message...",
+  "sentMessage": "The message has successfully been sent.",
+  "errorMessage": "There was an error while sending your message."
+}
